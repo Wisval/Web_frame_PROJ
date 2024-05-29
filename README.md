@@ -14,3 +14,6 @@ The Idea has been set, though the exploration of the frame is still in progress,
 possible, the difficulty of judging which elements in the framework can be cannibalized to use for the idea of an interactive web
 app journal, such as the folder that contains files and templates on how to implement icons(depending on wether or not their will be icons in the journal), how the files call and import other .vue(.js) files into another .vue file 
 (eg. import WelcomeItem from './WelcomeItem.vue'), the css style of font/color theme etc. 
+
+
+https://replit.com/@Wisval/WebApp#src/App.vue
